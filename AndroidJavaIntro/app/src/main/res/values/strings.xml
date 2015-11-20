@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Android Java Intro</string>
+
+    <string name="add">Add</string>
+    <string name="total">Total</string>
+    <string name="hint">Next Number</string>
+</resources>
